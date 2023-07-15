@@ -3,15 +3,10 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="" alt="Project logo"></a>
+ <img width=200px height=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTydr3-SezMqJ4hwcmdvfWUlyQbaOD2ZCyIQ&usqp=CAU" alt="Project logo"></a>
 </p>
-<h3 align="center">Project Title</h3>
-<div align="center">
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-</div>
+<h3 align="center">Movie App</h3>
+
 ---
 <p align="center"> Few lines describing your project.
     <br> 
