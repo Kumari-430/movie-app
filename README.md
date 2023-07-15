@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=50% height=200px src="C:\Users\kumari karthi\Downloads\download (6).jpg" alt="Project logo"></a>
+ <img width=50% height=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUkqSEa133tA02YqHLMY_qd0S5Q2yUFY2Bw&usqp=CAU" alt="Project logo"></a>
 </p>
 <h3 align="center">Movie App</h3>
 
