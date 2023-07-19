@@ -8,19 +8,11 @@
 <h3 align="center">Movie App</h3>
 
 ---
-<p align="center"> Few lines describing your project.
+<p align="center"> 
+  A movie app is a software application designed to provide users with a platform for discovering, exploring, and interacting with a collection of movies. These apps are typically available on various devices, such as smartphones, tablets, and computers, allowing users to access movie information and entertainment content from anywhere with an internet connection. The specific features and functionalities of a movie app can vary, but here are some common elements typically found in movie apps:
     <br> 
 </p>
-## 📝 Table of Contents
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+
 ## 🧐 About <a name = "about">movie app</a>
 The usage of a movie app can vary depending on its features and functionality, but here are some common ways users might interact with a movie app. Movie app built using React can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. 
 1.Browse and Search Movies 
