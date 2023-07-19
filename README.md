@@ -21,8 +21,17 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+## 🧐 About <a name = "about">movie app</a>
+The usage of a movie app can vary depending on its features and functionality, but here are some common ways users might interact with a movie app. Movie app built using React can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. 
+1.Browse and Search Movies 
+2.Movie Details
+3.User Reviews and Ratings
+4.Responsive Design
+5.Real-time Updates
+6.Data Fetching and API Integration
+7.Navigation and Routing
+
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 ### Prerequisites
