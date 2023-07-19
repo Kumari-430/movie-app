@@ -13,7 +13,7 @@
 </p>
 
 ## 🧐 About <a name = "about">movie app</a>
-The usage of a movie app can vary depending on its features and functionality, but here are some common ways users might interact with a movie app. Movie app built using React can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. 
+ Movie app built  can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. 
 1.Browse and Search Movies 
 2.Movie Details
 3.User Reviews and Ratings
@@ -40,6 +40,8 @@ With react-router-dom, we can define the routes for different sections of your m
 Material-UI is a popular React UI framework that provides a set of pre-designed, customizable components and styles based on Google's Material Design guidelines. It simplifies the process of creating visually appealing and responsive user interfaces in React applications.
 
 ## 🎈 Usage <a name="usage"></a>
+
+The usage of a movie app can vary depending on the specific app you are using, but generally, movie apps are designed to provide users with access to a wide range of movie-related content, such as information about movies, showtimes, trailers, reviews, and sometimes even the ability to stream or download movies
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
