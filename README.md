@@ -13,7 +13,7 @@
 </p>
 
 ## 🧐 About <a name = "about">movie app</a>
- Movie app built  can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. 
+ Movie app built  can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. <br>
 1.Browse and Search Movies 
 2.Movie Details
 3.User Reviews and Ratings
@@ -33,9 +33,9 @@
 
 ### Installing:
 
-1.creating react-app
+1.creating react-app <br>
 2.Installed react-rotuter and react-router-dom : 
-With react-router-dom, we can define the routes for different sections of your movie app. For example, you might have routes for the homepage, movie details page, search results page, user profile page, and more. Each route corresponds to a specific component that should be rendered when the user navigates to that particular URL.
+With react-router-dom, we can define the routes for different sections of your movie app. For example, you might have routes for the homepage, movie details page, search results page, user profile page, and more. Each route corresponds to a specific component that should be rendered when the user navigates to that particular URL. <br>
 3.material-ui :
 Material-UI is a popular React UI framework that provides a set of pre-designed, customizable components and styles based on Google's Material Design guidelines. It simplifies the process of creating visually appealing and responsive user interfaces in React applications.
 
