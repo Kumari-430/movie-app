@@ -21,7 +21,7 @@
 5.Real-time Updates <br>
 6.Data Fetching and API Integration <br>
 7.Navigation and Routing <br>
-<br><br>
+
 ### Prerequisites: <br>
 1.Idea and Concept <br>
 2.Technology Stack <br>
