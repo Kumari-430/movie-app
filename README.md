@@ -21,7 +21,7 @@
 5.Real-time Updates <br>
 6.Data Fetching and API Integration <br>
 7.Navigation and Routing <br>
-<br><br><br><br>
+<br><br>
 ### Prerequisites: <br>
 1.Idea and Concept <br>
 2.Technology Stack <br>
@@ -38,15 +38,24 @@ With react-router-dom, we can define the routes for different sections of your m
 3.material-ui : <br> 
 Material-UI is a popular React UI framework that provides a set of pre-designed, customizable components and styles based on Google's Material Design guidelines. It simplifies the process of creating visually appealing and responsive user interfaces in React applications.
 <br><br><br>
-## 🎈 Usage <a name="usage"></a>
+## 🎈 Usage <a name="usage">movie app</a>
 
 The usage of a movie app can vary depending on the specific app you are using, but generally, movie apps are designed to provide users with access to a wide range of movie-related content, such as information about movies, showtimes, trailers, reviews, and sometimes even the ability to stream or download movies
 
-## 🚀 Deployment <a name = "deployment"></a>
+## 🚀 Deployment <a name = "deployment">movie app</a>
 
-## ✍️ Authors <a name = "authors"></a>
+Deploying a movie app involves making it available to users so they can access and use it on their devices. Here are the general steps involved in deploying a movie app:
+
+1.Hosting the Backend: The movie app likely has a backend server that handles data storage, user authentication, and other server-side tasks. You'll need to host this backend on a server or a cloud platform like Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), etc. Make sure the server can handle the expected traffic and is secure. <br>
+2.Building APIs: Create APIs (Application Programming Interfaces) that allow the frontend (user interface) of the app to communicate with the backend server. APIs define how different parts of the app can request and exchange data. <br>
+3.Developing the Frontend: The frontend is what users interact with directly. Develop the user interface of the app using programming languages like HTML, CSS, and JavaScript, or frameworks like React.<br>
+4.Testing: Thoroughly test the app on various devices and browsers to ensure it works as expected and that there are no critical bugs or issues. <br>
+5.Securing the App: Implement security measures to protect user data and prevent unauthorized access to the app and backend. <br>
+6.Updates and Maintenance: Regularly update the app to add new features, fix bugs, and keep up with changes in platforms and devices. Monitor the app's performance and address any issues that arise. <br><br>
+
+## ✍️ Authors <a name = "authors">Kumari Karthi</a>
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - #roadsidecoder:youtube
-- Inspiration
-- References
+- Project Manager #Bheemesh.R
+- References : YouTube, Google Chrome, 
