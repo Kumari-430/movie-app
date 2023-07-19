@@ -58,4 +58,6 @@ Deploying a movie app involves making it available to users so they can access a
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - #roadsidecoder:youtube
 - Project Manager #Bheemesh.R
-- References : YouTube, Google Chrome, 
+- References : YouTube, Google Chrome,
+- 
+![Screenshot 2023-07-15 122729](https://github.com/Kumari-430/movie-app/assets/124483387/3d1bc444-3f75-4e23-9b18-0609c0130238)
