@@ -65,3 +65,4 @@ Deploying a movie app involves making it available to users so they can access a
 ![Screenshot 2023-07-14 193525](https://github.com/Kumari-430/movie-app/assets/124483387/77573c7e-fd17-4a71-b0b0-eb9f6aebbea8)
 ![Screenshot 2023-07-14 193525](https://github.com/Kumari-430/movie-app/assets/124483387/77573c7e-fd17-4a71-b0b0-eb9f6aebbea8)
 ![Screenshot 2023-07-14 193545](https://github.com/Kumari-430/movie-app/assets/124483387/d41c1227-08fd-4bc2-bb22-5864a0ffe1c9)
+![Screenshot 2023-07-14 193751](https://github.com/Kumari-430/movie-app/assets/124483387/114e525d-5038-46f1-844a-ccf2b2908b29)
