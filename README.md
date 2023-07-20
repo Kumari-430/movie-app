@@ -13,7 +13,7 @@
 </p>
 
 ##  About <a href="#" name = "about">movie app</a>
- Movie app built  can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. <br><br>
+ Movie app built  can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. <br>
 1.Browse and Search Movies <br>
 2.Movie Details <br>
 3.User Reviews and Ratings v
@@ -32,10 +32,10 @@
 
 ### Installing:
 
-1.Firstly creating react-app for starting our project using this command npx create-react-app <br>
+1.Firstly we have to create our react-app for starting our project using this command npx create-react-app <br><br>
 2.Installed react-rotuter and react-router-dom : <br>
-With react-router-dom, we can define the routes for different sections of your movie app. For example, you might have routes for the homepage, movie details page, search results page, user profile page, and more. Each route corresponds to a specific component that should be rendered when the user navigates to that particular URL. <br><br>
-3.material-ui : <br> 
+With react-router-dom, we can define the routes for different sections of your movie app. For example, you might have routes for the homepage, movie details page, search results page, user profile page, and more. Each route corresponds to a specific component that should be rendered when the user navigates to that particular URL.<br>
+3.material-ui :
 Material-UI is a popular React UI framework that provides a set of pre-designed, customizable components and styles based on Google's Material Design guidelines. It simplifies the process of creating visually appealing and responsive user interfaces in React applications.
 <br>
 4.axios: Axios is a popular JavaScript library used to make HTTP requests from the browser. It acts as a client-side HTTP client, allowing you to interact with APIs and fetch data from servers, which is a common task in modern web development.
