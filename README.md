@@ -32,7 +32,7 @@
 
 ### Installing:
 
-1.creating react-app <br>
+1.Firstly creating react-app for starting our project using this command npx create-react-app <br>
 2.Installed react-rotuter and react-router-dom : <br>
 With react-router-dom, we can define the routes for different sections of your movie app. For example, you might have routes for the homepage, movie details page, search results page, user profile page, and more. Each route corresponds to a specific component that should be rendered when the user navigates to that particular URL. <br><br>
 3.material-ui : <br> 
@@ -54,8 +54,6 @@ Deploying a movie app involves making it available to users so they can access a
 4.Testing: Thoroughly test the app on various devices and browsers to ensure it works as expected and that there are no critical bugs or issues. <br>
 5.Securing the App: Implement security measures to protect user data and prevent unauthorized access to the app and backend. <br>
 6.Updates and Maintenance: Regularly update the app to add new features, fix bugs, and keep up with changes in platforms and devices. Monitor the app's performance and address any issues that arise. <br><br>
-
-## ✍️ Authors <a href="#" name = "authors">Kumari Karthi</a>
 
 ## 🎉 Acknowledgements <a href="#" name = "acknowledgement"></a>
 - #roadsidecoder:youtube
