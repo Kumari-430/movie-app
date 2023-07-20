@@ -12,7 +12,7 @@
   A movie app is a software application designed to provide users with a platform for discovering, exploring, and interacting with a collection of movies. These apps are typically available on various devices, such as smartphones, tablets, and computers, allowing users to access movie information and entertainment content from anywhere with an internet connection. The specific features and functionalities of a movie app can vary, but here are some common elements typically found in movie apps:
 </p>
 
-## 🧐 About <a name = "about">movie app</a>
+##  About <a href="#" name = "about">movie app</a>
  Movie app built  can serve as a platform for users to explore, discover, and interact with a collection of movies. React is a popular JavaScript library for building user interfaces, and it's well-suited for creating dynamic, interactive, and responsive web applications. <br><br>
 1.Browse and Search Movies <br>
 2.Movie Details <br>
@@ -37,12 +37,14 @@
 With react-router-dom, we can define the routes for different sections of your movie app. For example, you might have routes for the homepage, movie details page, search results page, user profile page, and more. Each route corresponds to a specific component that should be rendered when the user navigates to that particular URL. <br><br>
 3.material-ui : <br> 
 Material-UI is a popular React UI framework that provides a set of pre-designed, customizable components and styles based on Google's Material Design guidelines. It simplifies the process of creating visually appealing and responsive user interfaces in React applications.
-<br><br><br>
-## 🎈 Usage <a name="usage">movie app</a>
+<br>
+4.axios: Axios is a popular JavaScript library used to make HTTP requests from the browser. It acts as a client-side HTTP client, allowing you to interact with APIs and fetch data from servers, which is a common task in modern web development.
+
+## 🎈 Usage <a href="#" name="usage">movie app</a>
 
 The usage of a movie app can vary depending on the specific app you are using, but generally, movie apps are designed to provide users with access to a wide range of movie-related content, such as information about movies, showtimes, trailers, reviews, and sometimes even the ability to stream or download movies
 
-## 🚀 Deployment <a name = "deployment">movie app</a>
+## 🚀 Deployment <a href="#" name = "deployment">movie app</a>
 
 Deploying a movie app involves making it available to users so they can access and use it on their devices. Here are the general steps involved in deploying a movie app:
 
@@ -53,9 +55,9 @@ Deploying a movie app involves making it available to users so they can access a
 5.Securing the App: Implement security measures to protect user data and prevent unauthorized access to the app and backend. <br>
 6.Updates and Maintenance: Regularly update the app to add new features, fix bugs, and keep up with changes in platforms and devices. Monitor the app's performance and address any issues that arise. <br><br>
 
-## ✍️ Authors <a name = "authors">Kumari Karthi</a>
+## ✍️ Authors <a href="#" name = "authors">Kumari Karthi</a>
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 Acknowledgements <a href="#" name = "acknowledgement"></a>
 - #roadsidecoder:youtube
 - Project Manager #Bheemesh.R
 - References : YouTube, Google Chrome,
