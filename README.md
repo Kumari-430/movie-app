@@ -1,4 +1,4 @@
-# movie-app
+# Movie-App
 
 
 <p align="center">
